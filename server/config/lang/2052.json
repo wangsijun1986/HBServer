@@ -1,0 +1,9 @@
+{
+    "name": "internationalization",
+    "version": "0.0.1",
+    "lang":"zh-CN",
+    "router":{
+      "home":"µÇÂ¼",
+      "dashboard":"¿ØÖÆÃæ°å"
+    }
+}
